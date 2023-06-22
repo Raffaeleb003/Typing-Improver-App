@@ -1,4 +1,4 @@
-<h3>Live Version: <a href="https://raffaeleb003.github.io/Typing-Improver-App/"></h3>
+<h3>Live Version: <a href="https://raffaeleb003.github.io/Typing-Improver-App/">HERE!</a></h3>
 
 <h1>Tying Improver App</h1>
 
